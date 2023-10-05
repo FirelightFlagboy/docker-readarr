@@ -1,0 +1,17 @@
+{
+  "$schema": "https://raw.githubusercontent.com/FirelightFlagboy/gh-actions-workflows-docker-services/aab594706e19dd4afe38efa7bbc4c3de33dff0b3/pkg-info.schema.json",
+  "name": "Readarr",
+  "latest_version": "0.3.6.2232",
+  "versions": {
+    "0.3.6.2232": {
+      "amd64": {
+        "filename": "Readarr.develop.0.3.6.2232.linux-musl-core-x64.tar.gz",
+        "download_url": "https://github.com/Readarr/Readarr/releases/download/v0.3.6.2232/Readarr.develop.0.3.6.2232.linux-musl-core-x64.tar.gz",
+        "digest": "sha256:131a901d890ca7f75dc92a01bb6ddfd9146a81b76de3ca5e0b5bc769203de562"
+      }
+    }
+  },
+  "mode": "jq-script",
+  "document-url": "https://readarr.servarr.com/v1/update/develop/changes?runtime=netcore&os=linuxmusl",
+  "script-path": "readarr.jq"
+}

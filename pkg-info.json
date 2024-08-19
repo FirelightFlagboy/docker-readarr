@@ -83,5 +83,7 @@
   },
   "mode": "jq-script",
   "document-url": "https://readarr.servarr.com/v1/update/develop/changes?runtime=netcore&os=linuxmusl",
-  "script-path": "readarr.jq"
+  "script-path": "readarr.jq",
+  "strip_v_prefix": false,
+  "allow_prerelease": false
 }

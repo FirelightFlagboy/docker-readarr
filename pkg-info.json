@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/FirelightFlagboy/gh-actions-workflows-docker-services/aab594706e19dd4afe38efa7bbc4c3de33dff0b3/pkg-info.schema.json",
   "name": "Readarr",
-  "latest_version": "0.4.2.2653",
+  "latest_version": "0.4.6.2711",
   "versions": {
     "0.3.10.2287": {
       "amd64": {
@@ -92,6 +92,13 @@
         "filename": "Readarr.develop.0.4.2.2653.linux-musl-core-x64.tar.gz",
         "download_url": "https://github.com/Readarr/Readarr/releases/download/v0.4.2.2653/Readarr.develop.0.4.2.2653.linux-musl-core-x64.tar.gz",
         "digest": "sha256:bb2578c9ee5acfcc48c2af5311ea30e98e208ea93f80c065afc815f0f594776f"
+      }
+    },
+    "0.4.6.2711": {
+      "amd64": {
+        "filename": "Readarr.develop.0.4.6.2711.linux-musl-core-x64.tar.gz",
+        "download_url": "https://github.com/Readarr/Readarr/releases/download/v0.4.6.2711/Readarr.develop.0.4.6.2711.linux-musl-core-x64.tar.gz",
+        "digest": "sha256:c8ed95ad0e1f56413c98b48f22dd44bcd9c6c27f35504f5a7f76a9553e6baea2"
       }
     }
   },
